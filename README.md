@@ -1,3 +1,4 @@
 # morgenkaff.github.io
 
-Welcome
+Welcome.
+You really should go to https://morgenkaff.dk though.
